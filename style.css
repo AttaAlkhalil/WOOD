@@ -1,0 +1,22 @@
+*{
+
+}
+.bgco{
+    
+    background-color: rgba(128, 128, 128, 0.034);
+}
+
+.cobt{
+   letter-spacing: 3px;
+    background-color: rgb(185, 166, 102);
+
+}
+.cobt:hover{
+    background-color: rgba(185, 166, 102, 0.689);
+    box-shadow: 10px 10px 10px rgba(185, 166, 102, 0.459);
+}
+
+.cooo{
+
+     color: rgb(185, 166, 102);
+}
